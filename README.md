@@ -1,4 +1,3 @@
-```markdown
 # Olá! Eu sou Vitor Gabriel Valadares da Silva 👋
 
 🎓 Estudante de Informática no Instituto Federal do Tocantins (IFTO) – Campus Formoso do Araguaia.
